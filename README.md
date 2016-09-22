@@ -17,4 +17,4 @@ Fax number: 00 225 22 44 28 86
 
 URL: www.bnetd.ci
 
-E-mail: [email](https://www.iscgm.org/gmd/images/email/civ.png)
+E-mail: ![email](https://www.iscgm.org/gmd/images/email/civ.png)
