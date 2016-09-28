@@ -18,3 +18,13 @@ Fax number: 00 225 22 44 28 86
 URL: www.bnetd.ci
 
 E-mail: ![email](https://www.iscgm.org/gmd/images/email/civ.png)
+
+## metadata
+This Data was developed based on Global Map Specifications version 2.2. 
+
+### Boundary, Transportation, Drainage 
+The data source was a 1:500000 map image (Topo 500 V2) made in 2012.
+
+### Population center
+The data source was a 1:200000 map image (BDGeo 200) made in 2005.
+
